@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Ivar and I like to do programming for games <3 
+### I'm Ivar and I do programming for games <3 
 
 <!--
 **PostHund/PostHund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
